@@ -5,10 +5,15 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Rubik', sans-serif;
+    /* //rubki */
+
 }
+
+
 
 body{
     height: 100%;
+    /* height 50 220*30px */
     background: linear-gradient(to right, #575ce5 50%, #f9fbfc 50%) fixed;
 }
 
